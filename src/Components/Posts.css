@@ -1,0 +1,56 @@
+.postContainer{
+	background-color: white;
+	display: block;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+    margin-top: 20px;
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+}
+
+.postDiv{
+	width: 49%;
+	height: 655px;
+	border-width: 1px;
+    float:left;
+	background-color: lightblue;
+}
+
+.eventImage{
+    width:100%;
+}
+
+.event1{
+    background-image: url(../images/Event1.JPG);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 49%;
+	height: 500px;
+    border-radius: 5px;
+    float:left;
+	background-color: lightblue;
+}
+
+.event2{
+    background-image: url(../images/Event2.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 49%;
+	height: 500px;
+	border-radius: 5px;
+    float:left;
+	background-color: lightblue;
+}
+
+.event3{
+    background-image: url(../images/Event3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 49%;
+	height: 500px;
+	border-radius: 5px;
+    float:left;
+	background-color: lightblue;
+}
