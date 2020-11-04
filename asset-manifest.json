@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/moah/static/css/main.09a77311.chunk.css",
-    "main.js": "/moah/static/js/main.f3790369.chunk.js",
-    "main.js.map": "/moah/static/js/main.f3790369.chunk.js.map",
+    "main.css": "/moah/static/css/main.8e4b7844.chunk.css",
+    "main.js": "/moah/static/js/main.6af65ad1.chunk.js",
+    "main.js.map": "/moah/static/js/main.6af65ad1.chunk.js.map",
     "runtime-main.js": "/moah/static/js/runtime-main.41f0a88c.js",
     "runtime-main.js.map": "/moah/static/js/runtime-main.41f0a88c.js.map",
     "static/css/2.11829350.chunk.css": "/moah/static/css/2.11829350.chunk.css",
     "static/js/2.ceb5c086.chunk.js": "/moah/static/js/2.ceb5c086.chunk.js",
     "static/js/2.ceb5c086.chunk.js.map": "/moah/static/js/2.ceb5c086.chunk.js.map",
     "index.html": "/moah/index.html",
-    "precache-manifest.aca20986ff0cfedf05983e15c0b36a1c.js": "/moah/precache-manifest.aca20986ff0cfedf05983e15c0b36a1c.js",
+    "precache-manifest.00e6f4e05f5d77ae3e3fac7427f82f33.js": "/moah/precache-manifest.00e6f4e05f5d77ae3e3fac7427f82f33.js",
     "service-worker.js": "/moah/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/moah/static/css/2.11829350.chunk.css.map",
-    "static/css/main.09a77311.chunk.css.map": "/moah/static/css/main.09a77311.chunk.css.map",
+    "static/css/main.8e4b7844.chunk.css.map": "/moah/static/css/main.8e4b7844.chunk.css.map",
     "static/js/2.ceb5c086.chunk.js.LICENSE.txt": "/moah/static/js/2.ceb5c086.chunk.js.LICENSE.txt",
     "static/media/Cambodia_Inclass.JPG": "/moah/static/media/Cambodia_Inclass.01fd42b8.JPG",
     "static/media/Event1.JPG": "/moah/static/media/Event1.cd842f14.JPG",
@@ -24,7 +24,7 @@
     "static/js/runtime-main.41f0a88c.js",
     "static/css/2.11829350.chunk.css",
     "static/js/2.ceb5c086.chunk.js",
-    "static/css/main.09a77311.chunk.css",
-    "static/js/main.f3790369.chunk.js"
+    "static/css/main.8e4b7844.chunk.css",
+    "static/js/main.6af65ad1.chunk.js"
   ]
 }
