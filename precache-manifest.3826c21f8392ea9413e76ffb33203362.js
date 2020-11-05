@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "964823b554ff54d8fd0fb22e54a4da98",
+    "revision": "452be656142067d2c8aa7364d8bda929",
     "url": "/moah/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moah/static/css/2.11829350.chunk.css"
   },
   {
-    "revision": "f617c5d3f5a59d7f913e",
-    "url": "/moah/static/css/main.25ebed27.chunk.css"
+    "revision": "a4ac4b91378bfa70d684",
+    "url": "/moah/static/css/main.28355cad.chunk.css"
   },
   {
     "revision": "875ee9a77c6b3d6db556",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/moah/static/js/2.ceb5c086.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "f617c5d3f5a59d7f913e",
+    "revision": "a4ac4b91378bfa70d684",
     "url": "/moah/static/js/main.40d99488.chunk.js"
   },
   {
