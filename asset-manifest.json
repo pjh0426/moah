@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/moah/static/css/main.ba0b4ffc.chunk.css",
-    "main.js": "/moah/static/js/main.1df891a9.chunk.js",
-    "main.js.map": "/moah/static/js/main.1df891a9.chunk.js.map",
+    "main.css": "/moah/static/css/main.006f637b.chunk.css",
+    "main.js": "/moah/static/js/main.47697928.chunk.js",
+    "main.js.map": "/moah/static/js/main.47697928.chunk.js.map",
     "runtime-main.js": "/moah/static/js/runtime-main.41f0a88c.js",
     "runtime-main.js.map": "/moah/static/js/runtime-main.41f0a88c.js.map",
     "static/css/2.11829350.chunk.css": "/moah/static/css/2.11829350.chunk.css",
-    "static/js/2.6c5cf070.chunk.js": "/moah/static/js/2.6c5cf070.chunk.js",
-    "static/js/2.6c5cf070.chunk.js.map": "/moah/static/js/2.6c5cf070.chunk.js.map",
+    "static/js/2.22f1d162.chunk.js": "/moah/static/js/2.22f1d162.chunk.js",
+    "static/js/2.22f1d162.chunk.js.map": "/moah/static/js/2.22f1d162.chunk.js.map",
     "index.html": "/moah/index.html",
-    "precache-manifest.596003931d284d6e0ccfcf31b247e0d5.js": "/moah/precache-manifest.596003931d284d6e0ccfcf31b247e0d5.js",
+    "precache-manifest.498a34085e9b667c533374aeefcab579.js": "/moah/precache-manifest.498a34085e9b667c533374aeefcab579.js",
     "service-worker.js": "/moah/service-worker.js",
     "static/css/2.11829350.chunk.css.map": "/moah/static/css/2.11829350.chunk.css.map",
-    "static/css/main.ba0b4ffc.chunk.css.map": "/moah/static/css/main.ba0b4ffc.chunk.css.map",
-    "static/js/2.6c5cf070.chunk.js.LICENSE.txt": "/moah/static/js/2.6c5cf070.chunk.js.LICENSE.txt",
+    "static/css/main.006f637b.chunk.css.map": "/moah/static/css/main.006f637b.chunk.css.map",
+    "static/js/2.22f1d162.chunk.js.LICENSE.txt": "/moah/static/js/2.22f1d162.chunk.js.LICENSE.txt",
     "static/media/Cambodia_Inclass.JPG": "/moah/static/media/Cambodia_Inclass.01fd42b8.JPG",
-    "static/media/Event1.JPG": "/moah/static/media/Event1.cd842f14.JPG",
     "static/media/Posts.css": "/moah/static/media/Event3.fbc12e02.jpg",
     "static/media/Moah_logo_web_bg.jpg": "/moah/static/media/Moah_logo_web_bg.37b27188.jpg",
     "static/media/main.jpg": "/moah/static/media/main.5f9667e2.jpg"
@@ -23,8 +22,8 @@
   "entrypoints": [
     "static/js/runtime-main.41f0a88c.js",
     "static/css/2.11829350.chunk.css",
-    "static/js/2.6c5cf070.chunk.js",
-    "static/css/main.ba0b4ffc.chunk.css",
-    "static/js/main.1df891a9.chunk.js"
+    "static/js/2.22f1d162.chunk.js",
+    "static/css/main.006f637b.chunk.css",
+    "static/js/main.47697928.chunk.js"
   ]
 }
